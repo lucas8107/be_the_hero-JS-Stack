@@ -22,11 +22,7 @@ npm install
 npm start
 ```
 
-To install the application on your mobile device:
-
-```
-npx react-native run-android
-```
+The mobile app will run using expo. Just follow the instructions to run the app using your phone, local simulator or web simulator.
 
 ## Running tests
 
